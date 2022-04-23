@@ -1,0 +1,11 @@
+node_modules
+*.log
+try.js
+dump.rdb
+.env
+bundle*
+fontawesome-web*
+*.sql
+tmp.js
+browserified
+web/build
